@@ -1,16 +1,35 @@
-# Drivers Logbook (React Native) 
+# Driver's Logbook (React Native) 
 
-- Author: **Hynek Zemanec** 
-- Email: [hynekz20@univie.ac.at](mailto:hynekz20@univie.ac.at)  
-- Repository: [https://git01lab.cs.univie.ac.at/p2/2022ws/12010957-hynek-zemanec](https://git01lab.cs.univie.ac.at/p2/2022ws/12010957-hynek-zemanec)
+Introducing the Digital Driver's Trip Tracker App, a must-have for all drivers!
+This app is built using the latest technologies from the React Native ecosystem. Say goodbye to manual log keeping and hello to hassle-free tracking of your trips.
 
-This repository serves for the purposes of **P2** project the *Driver's Logbook* at the Univesity Of Vienna in the _winter semester 2022_.
+With a sleek and user-friendly interface, the app accurately records your trip details, including the start and end location, distance traveled, and duration. All your trips are saved and organized in one place, making it easy for you to keep track of your driving history.
 
-For more in-depth info read [the report](doc/report).
-Or
-Check out the [final presentation](doc/presentation).
+Whether you're a professional driver or just need to track your personal trips, this app is perfect for you. With its advanced features, you can focus on the road while we take care of the rest. Download the Digital Driver's Trip Tracker App today and start your journey to a more organized driving experience!
+
+![Screenshots of the app](/doc/presentation/img/screenshots.png "Screenshots of the app")
+
+> check out individual screenshots in [doc/screenshots](/doc/screenshots)
+
+
+- [Driver's Logbook (React Native)](#drivers-logbook-react-native)
+  - [Learn More](#learn-more)
+  - [Repository Navigation](#repository-navigation)
+  - [Try Demo](#try-demo)
+  - [Definitive List of Implemented Features](#definitive-list-of-implemented-features)
+  - [Getting Started (local development)](#getting-started-local-development)
+  - [Git Workflow](#git-workflow)
+
 
 ---
+
+## Learn More
+
+For more in-depth info including architecture and design:
+* read [the report](doc/report/app_report.pdf).
+* Check out the [presentation](https://p2.zemanec.me/).
+
+## Repository Navigation
 
 * [doc](/doc/) : documentation 
   * `design`: UML diagrams, architecture, sequence diagrams, use-cases 
@@ -22,24 +41,13 @@ Check out the [final presentation](doc/presentation).
 
 ## Try Demo 
 
-Scan the QR code with your phone to try the app on your device.
+Scan the QR code using your smart phone to try the app on your device.
 
 > Note: The app requires [Expo Go](https://expo.dev/expo-go) to run. Currently iOS version of the app restricts access to app the account of the developer, therefore the app can be run only on Android devices.
 
 ![Car Logbook Demo](/doc/app_QR.svg "Car Logbook running Expo Go")
 
-## Getting Started (local development)
-
-To Try The App on Physical Device Download Expo Go
-* [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&pli=1) 
-* [iOS](https://apps.apple.com/app/expo-go/id982107779)
-
-1. Install [Node LTS release](https://nodejs.org/en/)
-2. Install [GIT](https://git-scm.com/)
-3. Install [yarn](https://yarnpkg.com/cli/install)
-4. Install dependencies run `yarn`
-5. Install and run metro server (expo) `npx expo start` alternatively run `yarn start`
-6. Photograph QR code using device with installed Expo Go or type `a` to run in an Android Simulator ([must be set up seperately by installing Android Studio](https://reactnative.dev/docs/environment-setup))
+---
 
 ## Definitive List of Implemented Features 
 
@@ -74,6 +82,20 @@ To Try The App on Physical Device Download Expo Go
 | Demo Mode                        | Demo mode allows the user to test features of the app with mocked data (trips, locations and odometer values).                                                                                                                                                                                                 |
 | Debug Mode                       | For a developer the debug mode allows for logging capabilities (log latest trip, dump contents of database, purging database and restarting the app).                                                                                                                                                          |
 
+## Getting Started (local development)
+
+To Try The App on Physical Device Download Expo Go
+* [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&pli=1) 
+* [iOS](https://apps.apple.com/app/expo-go/id982107779)
+
+1. Install [Node LTS release](https://nodejs.org/en/)
+2. Install [GIT](https://git-scm.com/)
+3. Install [yarn](https://yarnpkg.com/cli/install)
+4. Install dependencies run `yarn`
+5. Install and run metro server (expo) `npx expo start` alternatively run `yarn start`
+6. Photograph QR code using device with installed Expo Go or type `a` to run in an Android Simulator ([must be set up seperately by installing Android Studio](https://reactnative.dev/docs/environment-setup))
+
+
 ---
 
 ## Git Workflow 
@@ -99,5 +121,3 @@ To Try The App on Physical Device Download Expo Go
        commit
        checkout main
 ```
-
-checkout [wiki](https://git01lab.cs.univie.ac.at/p2/2022ws/12010957-hynek-zemanec/-/wikis/home) for more details.

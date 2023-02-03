@@ -1,0 +1,22 @@
+@startuml
+title Deployment Diagram
+
+node Smartphone <<device>> as phone {
+    node "Expo Go" <<container>> as expo {
+        artifact "Logbook App" <<artifact>> as app
+    }
+    database "Async Storage" <<database>> as database 
+}
+
+cloud "Azure OCR" <<cloud service>> as OCR
+
+cloud "Azure Blob Storage" <<cloud service>> as storage
+
+person user
+
+app -- database
+user --> phone
+app -- OCR : HTTP
+app -- storage : HTTP
+
+@enduml

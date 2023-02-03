@@ -1,0 +1,85 @@
+@startuml
+
+' autonumber 
+
+Title Input Odometer Data
+
+Actor User as U
+participant App as A 
+participant "Handling Service" as S
+participant "Azure OCR" as OCR
+
+database "Azure Data Store" as D
+
+
+U -> A : New Odometer State Request 
+activate A
+U <-- A : Odometer Dialog
+
+' User chooses to photograph the odometer
+alt Image Input
+    U -> A : Image 
+    A -> S : Image
+
+    activate S
+        S -> OCR : Image 
+        activate OCR
+
+        S -> D : Image 
+        activate D
+        S <-- D : Ok 
+        deactivate D
+
+        S <-- OCR : Optically Recognized Data
+        deactivate OCR
+
+        S -> S : Cache OCR Data
+        A <-- S : Processed Data
+    deactivate S
+    
+
+    U <-- A : Confirm Suggestion Request
+    alt Data Confirmed
+    U -> A : Accept
+
+    
+    A -> S : Confirm
+    activate S
+
+        S -> D : Data
+        activate D
+            S <-- D : Ok
+        deactivate D
+        
+        A <-- S : Ok
+    deactivate S
+
+    U <-- A : Status Message
+
+
+    else Data Rejected
+    U -> A : Reject
+    A -> S : Delete Cache Request
+    S -> S : Delete Cache
+    A <-- S :  Ok
+
+    U <-- A : Status Message
+
+    end
+    
+
+' User chooses to input the odometer manually
+else Manual Input
+    U -> A : Manual Input 
+    A -> S : Data 
+    S -> D : Data
+    activate D
+    S <-- D : Ok
+    deactivate D
+    A <-- S: Ok
+
+    U <-- A : Status Message
+
+end
+
+@enduml

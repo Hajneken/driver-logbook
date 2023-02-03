@@ -1,0 +1,36 @@
+@startuml
+title Deployment Diagram
+
+node Smartphone <<device>> as phone {
+    node "Expo Go" <<container>> as expo {
+        artifact "Logbook App" <<artifact>> as app
+    }
+}
+
+cloud "Azure OCR" <<cloud service>> as OCR
+
+cloud "Azure App Service" <<cloud service>> as AppService {
+    node "Docker" <<container>> {
+        node "Node: Express" <<server>> as server{
+        artifact " Handling Service" <<artifact>> as service
+    }
+ }
+}
+
+cloud "Azure Blob Storage" <<cloud service>> as storage
+
+cloud "Azure CosmosDB" <<cloud service>> as cosmosdb {
+    database "MongoDB" <<database>> as database 
+}
+    
+
+person user
+
+user --> phone
+phone -- AppService : HTTP
+AppService -- OCR : HTTP
+AppService -- storage : HTTP
+AppService -- cosmosdb : HTTP 
+
+
+@enduml

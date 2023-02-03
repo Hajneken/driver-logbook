@@ -1,0 +1,86 @@
+@startuml
+
+left to right direction
+
+
+actor "Driver" <<human>> as D
+actor "Administrator" <<human>> as A
+
+together {
+actor "Azure OCR" <<Service>> as O
+actor "Azure Blob Storage" <<Service>> as S
+}
+
+
+rectangle "App"  {
+  
+together {
+  usecase "Start Trip" as UC1
+  usecase "End Trip" as UC2 
+  together {
+        usecase "Verify Odometer against Image" as UC3
+        usecase "Odometer Image Recognition" as UC4  
+        usecase "Store Odometer Image Proof" as UC12
+    }
+  }
+
+  usecase "View Trip Detail" as UC5 
+  usecase "View Trip History" as UC6
+  usecase "Modify Trip" as UC7  
+  usecase "Delete Trip" as UC8 
+  usecase "Enter Vehicle Details" as UC9 
+  usecase "Modify Vehicle Details" as UC10 
+  usecase "View Vehicle Details" as UC11  
+  usecase "View Odometer Image Proof" as UC13
+  usecase "View vehicle details" as UC14 
+  usecase "Modify Trip Summary" as UC15
+  usecase "Modify Trip Details" as UC16
+  usecase "Export Backup" as UC17
+  usecase "Restore from backup" as UC18
+  usecase "Export Trips to CSV" as UC19
+  usecase "Export Trips to JSON" as UC20
+  usecase "Edit Saved Places" as UC21
+  usecase "View Saved Places" as UC22
+  usecase "Delete Saved Place" as UC23
+}
+
+
+D <|- A
+
+UC12 -u- S
+
+' Actor interactions with the system
+D -- UC1
+D -- UC2
+D -- UC5
+D -- UC6
+D -- UC11
+D -- UC13
+D -- UC14
+D -- UC15
+D -- UC17
+D -- UC18
+D -- UC19
+D -- UC20
+D -- UC21
+D -- UC22
+D -- UC23
+
+A -- UC7
+A -- UC8
+A -- UC9
+A -- UC10
+A -- UC16
+
+
+UC4 -- O 
+
+
+
+' use-case relationships
+UC1 ..> UC4: <<includes>>
+UC2 ..> UC4: <<includes>>
+UC4 .> UC3: <<extends>>
+
+
+@enduml

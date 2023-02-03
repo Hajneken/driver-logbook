@@ -1,0 +1,28 @@
+@startuml
+autonumber 
+
+Title Vehicle Initialization
+
+Actor User as U
+participant App as A 
+participant "Handling Service" as S
+database "Azure Data Store" as D
+
+U -> A : Launch App
+activate A
+U <-- A : Prompt Vehicle Info 
+
+U -> A: Vehicle Info 
+A -> S: Vehicle information
+activate S
+S -> D: Serialized Data
+activate D
+S <-- D: Ok
+deactivate D
+A <-- S: Ok
+deactivate S
+
+U <-- A: State Message
+deactivate A
+
+@enduml

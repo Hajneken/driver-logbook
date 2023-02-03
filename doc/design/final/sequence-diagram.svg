@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="904px" preserveAspectRatio="none" style="width:616px;height:904px;background:#FFFFFF;" version="1.1" viewBox="0 0 616 904" width="616px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="26.2969" id="_title" style="stroke:none;stroke-width:1.0;" width="128" x="245.75" y="10"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="118" x="250.75" y="27.9951">Trip Start / End</text><rect fill="#FFFFFF" height="87.3984" style="stroke:#181818;stroke-width:1.0;" width="10" x="238" y="149.7266"/><rect fill="#FFFFFF" height="539.3906" style="stroke:#181818;stroke-width:1.0;" width="10" x="238" y="266.2578"/><rect fill="#FFFFFF" height="29.1328" style="stroke:#181818;stroke-width:1.0;" width="10" x="483" y="470.1875"/><rect fill="#FFFFFF" height="29.1328" style="stroke:#181818;stroke-width:1.0;" width="10" x="563" y="411.9219"/><rect fill="none" height="104.5313" style="stroke:#000000;stroke-width:1.5;" width="455.5" x="10" y="614.7188"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="39" x2="39" y1="118.5938" y2="823.6484"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="242.5" x2="242.5" y1="118.5938" y2="823.6484"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="402.5" x2="402.5" y1="118.5938" y2="823.6484"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="487.5" x2="487.5" y1="118.5938" y2="823.6484"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="567.5" x2="567.5" y1="118.5938" y2="823.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="20" y="115.292">User</text><ellipse cx="39" cy="50.7969" fill="#E2E2F0" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M39,58.7969 L39,85.7969 M26,66.7969 L52,66.7969 M39,85.7969 L26,100.7969 M39,85.7969 L52,100.7969 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="20" y="835.6436">User</text><ellipse cx="39" cy="847.4453" fill="#E2E2F0" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M39,855.4453 L39,882.4453 M26,863.4453 L52,863.4453 M39,882.4453 L26,897.4453 M39,882.4453 L52,897.4453 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><rect fill="#E2E2F0" height="30.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="41" x="222.5" y="87.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="229.5" y="107.292">App</text><rect fill="#E2E2F0" height="30.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="41" x="222.5" y="822.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="229.5" y="842.6436">App</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="350.5" y="115.292">Async Storage</text><path d="M385,66.2969 C385,56.2969 403,56.2969 403,56.2969 C403,56.2969 421,56.2969 421,66.2969 L421,92.2969 C421,102.2969 403,102.2969 403,102.2969 C403,102.2969 385,102.2969 385,92.2969 L385,66.2969 " fill="#E2E2F0" style="stroke:#181818;stroke-width:1.5;"/><path d="M385,66.2969 C385,76.2969 403,76.2969 403,76.2969 C403,76.2969 421,76.2969 421,66.2969 " fill="none" style="stroke:#181818;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="350.5" y="835.6436">Async Storage</text><path d="M385,848.9453 C385,838.9453 403,838.9453 403,838.9453 C403,838.9453 421,838.9453 421,848.9453 L421,874.9453 C421,884.9453 403,884.9453 403,884.9453 C403,884.9453 385,884.9453 385,874.9453 L385,848.9453 " fill="#E2E2F0" style="stroke:#181818;stroke-width:1.5;"/><path d="M385,848.9453 C385,858.9453 403,858.9453 403,858.9453 C403,858.9453 421,858.9453 421,848.9453 " fill="none" style="stroke:#181818;stroke-width:1.5;"/><rect fill="#E2E2F0" height="30.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="45" x="465.5" y="87.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="472.5" y="107.292">OCR</text><rect fill="#E2E2F0" height="30.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="45" x="465.5" y="822.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="472.5" y="842.6436">OCR</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="520.5" y="115.292">Blob Storage</text><path d="M550,66.2969 C550,56.2969 568,56.2969 568,56.2969 C568,56.2969 586,56.2969 586,66.2969 L586,92.2969 C586,102.2969 568,102.2969 568,102.2969 C568,102.2969 550,102.2969 550,92.2969 L550,66.2969 " fill="#E2E2F0" style="stroke:#181818;stroke-width:1.5;"/><path d="M550,66.2969 C550,76.2969 568,76.2969 568,76.2969 C568,76.2969 586,76.2969 586,66.2969 " fill="none" style="stroke:#181818;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="520.5" y="835.6436">Blob Storage</text><path d="M550,848.9453 C550,838.9453 568,838.9453 568,838.9453 C568,838.9453 586,838.9453 586,848.9453 L586,874.9453 C586,884.9453 568,884.9453 568,884.9453 C568,884.9453 550,884.9453 550,874.9453 L550,848.9453 " fill="#E2E2F0" style="stroke:#181818;stroke-width:1.5;"/><path d="M550,848.9453 C550,858.9453 568,858.9453 568,858.9453 C568,858.9453 586,858.9453 586,848.9453 " fill="none" style="stroke:#181818;stroke-width:1.5;"/><rect fill="#FFFFFF" height="87.3984" style="stroke:#181818;stroke-width:1.0;" width="10" x="238" y="149.7266"/><rect fill="#FFFFFF" height="539.3906" style="stroke:#181818;stroke-width:1.0;" width="10" x="238" y="266.2578"/><rect fill="#FFFFFF" height="29.1328" style="stroke:#181818;stroke-width:1.0;" width="10" x="483" y="470.1875"/><rect fill="#FFFFFF" height="29.1328" style="stroke:#181818;stroke-width:1.0;" width="10" x="563" y="411.9219"/><polygon fill="#181818" points="226,145.7266,236,149.7266,226,153.7266,230,149.7266" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="39" x2="232" y1="149.7266" y2="149.7266"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="75" x="46" y="144.6606">Launch App</text><polygon fill="#181818" points="391,174.8594,401,178.8594,391,182.8594,395,178.8594" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="248" x2="397" y1="178.8594" y2="178.8594"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="86" x="255" y="173.7935">Request Trips</text><polygon fill="#181818" points="259,203.9922,249,207.9922,259,211.9922,255,207.9922" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="253" x2="402" y1="207.9922" y2="207.9922"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="31" x="265" y="202.9263">Data</text><polygon fill="#181818" points="50,233.125,40,237.125,50,241.125,46,237.125" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="44" x2="242" y1="237.125" y2="237.125"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="80" x="56" y="232.0591">Display Trips</text><polygon fill="#181818" points="226,262.2578,236,266.2578,226,270.2578,230,266.2578" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="39" x2="232" y1="266.2578" y2="266.2578"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="87" x="46" y="261.1919">Start/End Trip</text><polygon fill="#181818" points="50,291.3906,40,295.3906,50,299.3906,46,295.3906" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="44" x2="237" y1="295.3906" y2="295.3906"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="152" x="56" y="290.3247">Display Camera Prompt</text><polygon fill="#181818" points="226,320.5234,236,324.5234,226,328.5234,230,324.5234" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="39" x2="232" y1="324.5234" y2="324.5234"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="90" x="46" y="319.4575">Take a picture</text><polygon fill="#181818" points="50,349.6563,40,353.6563,50,357.6563,46,353.6563" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="44" x2="237" y1="353.6563" y2="353.6563"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="175" x="56" y="348.5903">Display Compressed Image</text><polygon fill="#181818" points="226,378.7891,236,382.7891,226,386.7891,230,382.7891" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="39" x2="232" y1="382.7891" y2="382.7891"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="94" x="46" y="377.7231">Confirm Image</text><polygon fill="#181818" points="551,407.9219,561,411.9219,551,415.9219,555,411.9219" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="248" x2="557" y1="411.9219" y2="411.9219"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="135" x="255" y="406.856">Upload Image with ID</text><polygon fill="#181818" points="259,437.0547,249,441.0547,259,445.0547,255,441.0547" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="253" x2="567" y1="441.0547" y2="441.0547"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="17" x="265" y="435.9888">Ok</text><polygon fill="#181818" points="471,466.1875,481,470.1875,471,474.1875,475,470.1875" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="248" x2="477" y1="470.1875" y2="470.1875"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="175" x="255" y="465.1216">Request Optical Recogniton</text><polygon fill="#181818" points="259,495.3203,249,499.3203,259,503.3203,255,499.3203" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="253" x2="487" y1="499.3203" y2="499.3203"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="120" x="265" y="494.2544">Recognized Values</text><polygon fill="#181818" points="50,524.4531,40,528.4531,50,532.4531,46,528.4531" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="44" x2="237" y1="528.4531" y2="528.4531"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="170" x="56" y="523.3872">Display Recognized Values</text><polygon fill="#181818" points="226,553.5859,236,557.5859,226,561.5859,230,557.5859" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="39" x2="232" y1="557.5859" y2="557.5859"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="80" x="46" y="552.52">Select Value</text><line style="stroke:#181818;stroke-width:1.0;" x1="248" x2="290" y1="586.7188" y2="586.7188"/><line style="stroke:#181818;stroke-width:1.0;" x1="290" x2="290" y1="586.7188" y2="599.7188"/><line style="stroke:#181818;stroke-width:1.0;" x1="249" x2="290" y1="599.7188" y2="599.7188"/><polygon fill="#181818" points="259,595.7188,249,599.7188,259,603.7188,255,599.7188" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="102" x="255" y="581.6528">Cache Trip Data</text><path d="M10,614.7188 L74,614.7188 L74,621.8516 L64,631.8516 L10,631.8516 L10,614.7188 " fill="#EEEEEE" style="stroke:#000000;stroke-width:1.5;"/><rect fill="none" height="104.5313" style="stroke:#000000;stroke-width:1.5;" width="455.5" x="10" y="614.7188"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="19" x="25" y="627.7856">alt</text><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="83" x="89" y="626.9292">[Trip Ending]</text><polygon fill="#181818" points="50,648.9844,40,652.9844,50,656.9844,46,652.9844" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="44" x2="237" y1="652.9844" y2="652.9844"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="140" x="56" y="647.9185">Display Trip Summary</text><polygon fill="#181818" points="226,678.1172,236,682.1172,226,686.1172,230,682.1172" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="39" x2="232" y1="682.1172" y2="682.1172"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="77" x="46" y="677.0513">Confirm Trip</text><polygon fill="#181818" points="391,707.25,401,711.25,391,715.25,395,711.25" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="248" x2="397" y1="711.25" y2="711.25"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="105" x="255" y="706.1841">Persist Trip Data</text><polygon fill="#181818" points="391,743.3828,401,747.3828,391,751.3828,395,747.3828" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="248" x2="397" y1="747.3828" y2="747.3828"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="131" x="255" y="742.3169">Request Trip Refresh</text><polygon fill="#181818" points="259,772.5156,249,776.5156,259,780.5156,255,776.5156" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="253" x2="402" y1="776.5156" y2="776.5156"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="31" x="265" y="771.4497">Data</text><polygon fill="#181818" points="50,801.6484,40,805.6484,50,809.6484,46,805.6484" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="44" x2="242" y1="805.6484" y2="805.6484"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="80" x="56" y="800.5825">Display Trips</text><!--MD5=[1f4158235b4594d23d902c2d7e639e4a]
+@startuml
+
+' autonumber 
+
+Title Trip Start / End
+
+Actor User as U
+participant App as A 
+database "Async Storage" as D
+participant "OCR" as O
+database "Blob Storage" as S
+
+U -> A : Launch App 
+activate A
+    A -> D : Request Trips
+    A <- - D : Data
+    U <- - A : Display Trips
+deactivate A
+
+
+U -> A : Start/End Trip
+
+activate A
+    U <- - A : Display Camera Prompt
+    U -> A : Take a picture
+    U <- - A : Display Compressed Image
+    U -> A : Confirm Image
+
+    A -> S : Upload Image with ID
+    activate S
+        A <- - S : Ok
+    deactivate S
+
+    A -> O : Request Optical Recogniton
+    activate O
+        A <- - O : Recognized Values 
+    deactivate O
+    U <- - A : Display Recognized Values
+    U -> A : Select Value
+    A -> A : Cache Trip Data
+
+alt Trip Ending
+
+    U <- - A : Display Trip Summary 
+    U -> A : Confirm Trip
+    A -> D : Persist Trip Data 
+
+end 
+
+    A -> D : Request Trip Refresh
+    A <- - D : Data
+    U <- - A : Display Trips
+    
+deactivate A
+
+
+@enduml
+
+@startuml
+
+
+Title Trip Start / End
+
+Actor User as U
+participant App as A 
+database "Async Storage" as D
+participant "OCR" as O
+database "Blob Storage" as S
+
+U -> A : Launch App 
+activate A
+    A -> D : Request Trips
+    A <- - D : Data
+    U <- - A : Display Trips
+deactivate A
+
+
+U -> A : Start/End Trip
+
+activate A
+    U <- - A : Display Camera Prompt
+    U -> A : Take a picture
+    U <- - A : Display Compressed Image
+    U -> A : Confirm Image
+
+    A -> S : Upload Image with ID
+    activate S
+        A <- - S : Ok
+    deactivate S
+
+    A -> O : Request Optical Recogniton
+    activate O
+        A <- - O : Recognized Values 
+    deactivate O
+    U <- - A : Display Recognized Values
+    U -> A : Select Value
+    A -> A : Cache Trip Data
+
+alt Trip Ending
+
+    U <- - A : Display Trip Summary 
+    U -> A : Confirm Trip
+    A -> D : Persist Trip Data 
+
+end 
+
+    A -> D : Request Trip Refresh
+    A <- - D : Data
+    U <- - A : Display Trips
+    
+deactivate A
+
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

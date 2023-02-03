@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1260px" preserveAspectRatio="none" style="width:1077px;height:1260px;background:#FFFFFF;" version="1.1" viewBox="0 0 1077 1260" width="1077px" zoomAndPan="magnify"><defs/><g><!--MD5=[fd4c3052a6c185c610a121490a4e18b5]
+cluster Logbook App--><g id="cluster_Logbook App"><rect fill="none" height="1247" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="696" x="213" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="104" x="509" y="21.9951">Logbook App</text></g><g id="elem_UC5"><ellipse cx="374.3592" cy="621.8718" fill="#F1F1F1" rx="84.8592" ry="19.3718" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="130" x="309.3592" y="624.7185">View Journey Detail</text></g><g id="elem_UC6"><ellipse cx="374.3518" cy="697.0704" fill="#F1F1F1" rx="88.3518" ry="20.0704" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="305.3518" y="699.917">View Journey History</text></g><g id="elem_UC7"><ellipse cx="374.3073" cy="1074.8615" fill="#F1F1F1" rx="72.3073" ry="16.8615" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="321.8073" y="1078.609">Modify Journey</text></g><g id="elem_UC8"><ellipse cx="374.5678" cy="1144.0136" fill="#F1F1F1" rx="73.0678" ry="17.0136" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="321.0678" y="1147.7611">Delete Journey</text></g><g id="elem_UC9"><ellipse cx="374.6144" cy="1216.9229" fill="#F1F1F1" rx="90.1144" ry="20.4229" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="303.6144" y="1219.7696">Enter Vehicle Details</text></g><g id="elem_UC10"><ellipse cx="374.7229" cy="931.0446" fill="#F1F1F1" rx="93.2229" ry="21.0446" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="149" x="300.2229" y="933.8913">Modify Vehicle Details</text></g><g id="elem_UC11"><ellipse cx="374.4128" cy="771.9826" fill="#F1F1F1" rx="87.9128" ry="19.9826" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="137" x="305.9128" y="774.8292">View Vehicle Details</text></g><g id="elem_UC12"><ellipse cx="374.3679" cy="851.1736" fill="#F1F1F1" rx="106.3679" ry="23.6736" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="285.3679" y="854.0203">Enter fuel refill information</text></g><g id="elem_UC13"><ellipse cx="374.6676" cy="1005.1335" fill="#F1F1F1" rx="76.1676" ry="17.6335" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="109" x="317.1676" y="1008.8811">Remove vehicle</text></g><g id="elem_UC1"><ellipse cx="374.3807" cy="484.9761" fill="#F1F1F1" rx="67.8807" ry="15.9761" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="87" x="327.8807" y="488.7237">Start Journey</text></g><g id="elem_UC2"><ellipse cx="374.613" cy="552.1226" fill="#F1F1F1" rx="66.113" ry="15.6226" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="330.613" y="555.8702">End Journey</text></g><g id="elem_UC3"><ellipse cx="374.7105" cy="287.2421" fill="#F1F1F1" rx="121.7105" ry="26.7421" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="211" x="269.2105" y="290.0888">Verify Odometer against Image</text></g><g id="elem_UC4"><ellipse cx="374.4616" cy="390.9923" fill="#F1F1F1" rx="117.9616" ry="25.9923" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="203" x="272.9616" y="393.839">Odometer Image Recognition</text></g><g id="elem_UC14"><ellipse cx="374.7229" cy="169.0446" fill="#F1F1F1" rx="93.2229" ry="21.0446" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="149" x="300.2229" y="171.8913">View vehicle statistics</text></g><g id="elem_UC15"><ellipse cx="748.5183" cy="91.0037" fill="#F1F1F1" rx="110.5183" ry="24.5037" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="187" x="655.0183" y="93.8503">Calculate fuel consumption</text></g><g id="elem_UC16"><ellipse cx="748.3027" cy="176.9605" fill="#F1F1F1" rx="120.3027" ry="26.4605" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="208" x="644.3027" y="179.8072">Calculate average cost per km</text></g><!--MD5=[118f42602524ad482f02b27ef22fc383]
+entity D--><g id="elem_D"><ellipse cx="51.5" cy="638.2969" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M51.5,646.2969 L51.5,673.2969 M38.5,654.2969 L64.5,654.2969 M51.5,673.2969 L38.5,688.2969 M51.5,673.2969 L64.5,688.2969 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="31.5" y="702.792">Driver</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="66" x="18.5" y="626.4951">«human»</text></g><!--MD5=[770389ab9df153645bc6ef28055eb2b5]
+entity A--><g id="elem_A"><ellipse cx="51.5" cy="1025.2969" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M51.5,1033.2969 L51.5,1060.2969 M38.5,1041.2969 L64.5,1041.2969 M51.5,1060.2969 L38.5,1075.2969 M51.5,1060.2969 L64.5,1075.2969 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="91" x="6" y="1089.792">Administrator</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="66" x="18.5" y="1013.4951">«human»</text></g><!--MD5=[8ad42e69c823d91e931492f14bc2a1bb]
+entity S--><g id="elem_S"><ellipse cx="1013" cy="213.2969" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M1013,221.2969 L1013,248.2969 M1000,229.2969 L1026,229.2969 M1013,248.2969 L1000,263.2969 M1013,248.2969 L1026,263.2969 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="114" x="956" y="277.792">Handling Service</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="69" x="978.5" y="201.4951">«Service»</text></g><!--MD5=[1e7263c78e66a7454dd114a811c40bda]
+reverse link D to A--><g id="link_D_A"><path d="M51.5,726.58 C51.5,817.76 51.5,908.95 51.5,1000.14 " fill="none" id="D-backto-A" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="44.5,726.5,51.5,706.5,58.5,726.5,44.5,726.5" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[9be9e975da223bceece33826cd3cd71c]
+link D to UC1--><g id="link_D_UC1"><path d="M62.82,613.39 C73.04,578.93 92.33,534 127,510 C182.97,471.26 263.94,470.86 317.61,476.21 " fill="none" id="D-UC1" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[04287dcc80d6c0616043ecfd06ced7bd]
+link D to UC2--><g id="link_D_UC2"><path d="M84.79,635.75 C114.41,614.86 160.34,585.81 205,571 C238.11,560.02 276.67,555.13 308.54,553.05 " fill="none" id="D-UC2" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[541cf6a421c978face790266de26be11]
+link D to UC5--><g id="link_D_UC5"><path d="M84.75,656.18 C134.35,650.31 230.73,638.9 298.45,630.88 " fill="none" id="D-UC5" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ffa7ccf80ada64b96d9d328272788a98]
+link D to UC6--><g id="link_D_UC6"><path d="M84.75,663.72 C133.56,669.34 227.65,680.19 295.17,687.97 " fill="none" id="D-UC6" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4331395dfbf2e798d2a4fbfdb89f5ff4]
+link D to UC11--><g id="link_D_UC11"><path d="M84.59,678.27 C114.82,694.82 161.81,718.88 205,734 C236.7,745.1 272.91,753.76 303.63,759.99 " fill="none" id="D-UC11" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[495bfd2a822b391cf0d551685c5952d4]
+link D to UC12--><g id="link_D_UC12"><path d="M84.62,702.78 C112.61,736.91 156.28,783.15 205,809 C229.9,822.21 259.09,831.38 286.11,837.69 " fill="none" id="D-UC12" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f998dd5ca412c3a8b5d793156762730a]
+link D to UC14--><g id="link_D_UC14"><path d="M57.69,613.26 C69.35,529.14 104.93,351.05 205,244 C232.88,214.18 274.78,195.46 309.83,184.18 " fill="none" id="D-UC14" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[895711ac557db20cdb2a14f10c004e82]
+link A to UC7--><g id="link_A_UC7"><path d="M97.13,1050.89 C151.4,1055.63 243.5,1063.66 306.34,1069.14 " fill="none" id="A-UC7" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[5ea53c8fc41ef74910cb7ae5db865cab]
+link A to UC8--><g id="link_A_UC8"><path d="M97.04,1068.07 C127.02,1081.59 167.73,1098.66 205,1110 C240.26,1120.73 280.71,1129.02 313.15,1134.73 " fill="none" id="A-UC8" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[cd0b76491e9876132105be17c6a8259a]
+link A to UC9--><g id="link_A_UC9"><path d="M94.04,1093.68 C122.44,1122.68 162.53,1158.25 205,1179 C232.89,1192.63 265.77,1201.44 295.04,1207.12 " fill="none" id="A-UC9" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[af97dbc481b077865e65573a320ef31c]
+link A to UC10--><g id="link_A_UC10"><path d="M97.22,1022.52 C106.99,1017.31 117.3,1011.9 127,1007 C161.25,989.7 168.77,982.62 205,970 C236.05,959.18 271.37,950.49 301.62,944.07 " fill="none" id="A-UC10" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d596e5afd8d8059daac37841b5625e08]
+link A to UC13--><g id="link_A_UC13"><path d="M97.13,1041.16 C151.92,1033.99 245.26,1021.78 308.13,1013.55 " fill="none" id="A-UC13" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d65c3dcd709d1c2b37c3881222197f98]
+link UC3 to S--><g id="link_UC3_S"><path d="M488.56,277.76 C625.74,266.56 851.58,248.11 955.93,239.58 " fill="none" id="UC3-S" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[adf44b02a172c9154b26978a2c3bdd07]
+link UC4 to S--><g id="link_UC4_S"><path d="M471.29,376.08 C580.62,357.76 764.07,323.11 917,275 C929.8,270.97 943.26,265.87 955.88,260.67 " fill="none" id="UC4-S" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[75a6dc37053fe540652bc77e326d8cfc]
+link UC15 to S--><g id="link_UC15_S"><path d="M841.88,104.19 C867.39,110.43 894.28,119.59 917,133 C940.65,146.96 962.01,168.59 978.45,188.35 " fill="none" id="UC15-S" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f57043a6a559feb8cd138516d8dd7678]
+link UC16 to S--><g id="link_UC16_S"><path d="M834.36,195.75 C874.21,204.55 920.6,214.8 955.98,222.62 " fill="none" id="UC16-S" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[41a13eddb1eb4ad2a8fa357668cebe40]
+link UC1 to UC4--><g id="link_UC1_UC4"><path d="M374.5,468.63 C374.5,455.87 374.5,437.77 374.5,422.26 " fill="none" id="UC1-to-UC4" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="374.5,417.11,370.5,426.11,374.5,422.11,378.5,426.11,374.5,417.11" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="68" x="329" y="447.5669">«includes»</text></g><!--MD5=[70fd0aa021e0672eb21bacda73a77dec]
+link UC2 to UC4--><g id="link_UC2_UC4"><path d="M329.54,563.42 C281.4,572.63 206.48,577.73 166,533.5 C117.56,480.57 216.26,437.08 293.77,412.59 " fill="none" id="UC2-to-UC4" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="298.85,411,289.0647,409.8832,294.0801,412.4995,291.4639,417.515,298.85,411" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="68" x="128" y="529.5669">«includes»</text></g><!--MD5=[9def120608b2af73366fdf2b658d936d]
+link UC4 to UC3--><g id="link_UC4_UC3"><path d="M374.5,364.76 C374.5,350.82 374.5,333.59 374.5,318.89 " fill="none" id="UC4-to-UC3" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="374.5,313.6,370.5,322.6,374.5,318.6,378.5,322.6,374.5,313.6" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="67" x="329.5" y="343.8169">«extends»</text></g><!--MD5=[5779eb601b1ae68cdb4f1d5e41db8538]
+link UC14 to UC15--><g id="link_UC14_UC15"><path d="M443.3,154.78 C504.88,141.87 595.97,122.77 662.42,108.84 " fill="none" id="UC14-to-UC15" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="667.56,107.76,657.9302,105.6942,662.6666,108.7872,659.5737,113.5236,667.56,107.76" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="68" x="529" y="120.0669">«includes»</text></g><!--MD5=[3db46a4b3379dd4386b00f74624ee5ab]
+link UC14 to UC16--><g id="link_UC14_UC16"><path d="M467.46,170.98 C514.47,171.99 572.35,173.23 623.27,174.33 " fill="none" id="UC14-to-UC16" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="628.49,174.44,619.5718,170.2608,623.491,174.34,619.4118,178.2592,628.49,174.44" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="68" x="529" y="169.0669">«includes»</text></g><!--MD5=[e5c60a70b244a5e12a100abf553dc71f]
+@startuml
+
+left to right direction
+
+' Who is going to be using our system?
+
+actor "Driver" <<human>> as D
+actor "Administrator" <<human>> as A
+actor "Handling Service" <<Service>> as S
+
+rectangle "Logbook App"  {
+    
+together {
+  usecase "Start Journey" as UC1
+  usecase "End Journey" as UC2 
+  usecase "Verify Odometer against Image" as UC3
+  usecase "Odometer Image Recognition" as UC4
+}
+  
+  usecase "View Journey Detail" as UC5 
+  usecase "View Journey History" as UC6
+  usecase "Modify Journey" as UC7
+  usecase "Delete Journey" as UC8 
+  usecase "Enter Vehicle Details" as UC9 
+  usecase "Modify Vehicle Details" as UC10 
+  usecase "View Vehicle Details" as UC11  
+  usecase "Enter fuel refill information" as UC12  
+  usecase "Remove vehicle"  as UC13  
+
+  together {
+    usecase "View vehicle statistics" as UC14 
+    usecase "Calculate fuel consumption" as UC15 
+    usecase "Calculate average cost per km" as UC16
+  }
+  
+}
+
+D <|- A
+
+' Actor interactions with the system
+D - - UC1
+D - - UC2
+D - - UC5
+D - - UC6
+D - - UC11
+D - - UC12
+D - - UC14
+
+A - - UC7
+A - - UC8
+A - - UC9
+A - - UC10
+A - - UC13
+
+UC3 - - S 
+UC4 - - S 
+UC15 - - S 
+UC16 - - S 
+
+' use-case relationships
+UC1 .r.> UC4: <<includes>>
+UC2 .r.> UC4: <<includes>>
+UC4 .> UC3: <<extends>>
+
+UC15 <.up. UC14: <<includes>>
+UC16 <.up. UC14: <<includes>>
+
+@enduml
+
+@startuml
+
+left to right direction
+
+
+actor "Driver" <<human>> as D
+actor "Administrator" <<human>> as A
+actor "Handling Service" <<Service>> as S
+
+rectangle "Logbook App"  {
+    
+together {
+  usecase "Start Journey" as UC1
+  usecase "End Journey" as UC2 
+  usecase "Verify Odometer against Image" as UC3
+  usecase "Odometer Image Recognition" as UC4
+}
+  
+  usecase "View Journey Detail" as UC5 
+  usecase "View Journey History" as UC6
+  usecase "Modify Journey" as UC7
+  usecase "Delete Journey" as UC8 
+  usecase "Enter Vehicle Details" as UC9 
+  usecase "Modify Vehicle Details" as UC10 
+  usecase "View Vehicle Details" as UC11  
+  usecase "Enter fuel refill information" as UC12  
+  usecase "Remove vehicle"  as UC13  
+
+  together {
+    usecase "View vehicle statistics" as UC14 
+    usecase "Calculate fuel consumption" as UC15 
+    usecase "Calculate average cost per km" as UC16
+  }
+  
+}
+
+D <|- A
+
+D - - UC1
+D - - UC2
+D - - UC5
+D - - UC6
+D - - UC11
+D - - UC12
+D - - UC14
+
+A - - UC7
+A - - UC8
+A - - UC9
+A - - UC10
+A - - UC13
+
+UC3 - - S 
+UC4 - - S 
+UC15 - - S 
+UC16 - - S 
+
+UC1 .r.> UC4: <<includes>>
+UC2 .r.> UC4: <<includes>>
+UC4 .> UC3: <<extends>>
+
+UC15 <.up. UC14: <<includes>>
+UC16 <.up. UC14: <<includes>>
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

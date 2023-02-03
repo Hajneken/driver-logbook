@@ -1,0 +1,42 @@
+@startuml
+
+' autonumber 
+
+Title Journey Start / End
+
+Actor User as U
+participant App as A 
+participant "Handling Service" as S
+database "Azure Data Store" as D
+
+
+U -> A : Launch App 
+activate A
+    A -> S : Cached Data Request
+        activate S
+    alt Data is cached
+        S --> A : Cached Data
+        deactivate S
+    else Data is not cached
+            S -> D : Data Request
+            activate S
+            activate D
+            D --> S : Data
+            deactivate D
+            S --> A : Data
+        deactivate S
+    end
+
+    U <-- A : Stored Odometer
+
+    alt correct state
+    U -> A : Confirm 
+
+    else incorrect state
+        U -> A : Reject
+        ref over U, A, S, D : Input Odometer Data
+
+        end
+deactivate A
+
+@enduml

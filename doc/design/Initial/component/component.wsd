@@ -1,0 +1,14 @@
+@startuml
+Title Component Diagram
+component "React Native App" <<component>> as app
+component "Express Server" <<component>> as server
+component "MongoDB" <<database>>  as db
+component "Azure Blob Storage" <<component>>  as storage
+component "Azure Cognitive Services" <<component>>  as OCR
+
+app -(0- server : "<<REST>> \n Query Journey "
+server -(0- db : "<<NoSQL>> \n Query Journey Data "
+server -(0- storage : "<<REST>> \n Query Image Blobs"
+server -(0- OCR : ""<<REST>> \n Query OCR results""
+
+@enduml

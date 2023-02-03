@@ -1,0 +1,68 @@
+@startuml
+
+left to right direction
+
+' Who is going to be using our system?
+
+actor "Driver" <<human>> as D
+actor "Administrator" <<human>> as A
+actor "Handling Service" <<Service>> as S
+
+rectangle "Logbook App"  {
+    
+together {
+  usecase "Start Journey" as UC1
+  usecase "End Journey" as UC2 
+  usecase "Verify Odometer against Image" as UC3
+  usecase "Odometer Image Recognition" as UC4
+}
+  
+  usecase "View Journey Detail" as UC5 
+  usecase "View Journey History" as UC6
+  usecase "Modify Journey" as UC7
+  usecase "Delete Journey" as UC8 
+  usecase "Enter Vehicle Details" as UC9 
+  usecase "Modify Vehicle Details" as UC10 
+  usecase "View Vehicle Details" as UC11  
+  usecase "Enter fuel refill information" as UC12  
+  usecase "Remove vehicle"  as UC13  
+
+  together {
+    usecase "View vehicle statistics" as UC14 
+    usecase "Calculate fuel consumption" as UC15 
+    usecase "Calculate average cost per km" as UC16
+  }
+  
+}
+
+D <|- A
+
+' Actor interactions with the system
+D -- UC1
+D -- UC2
+D -- UC5
+D -- UC6
+D -- UC11
+D -- UC12
+D -- UC14
+
+A -- UC7
+A -- UC8
+A -- UC9
+A -- UC10
+A -- UC13
+
+UC3 -- S 
+UC4 -- S 
+UC15 -- S 
+UC16 -- S 
+
+' use-case relationships
+UC1 .r.> UC4: <<includes>>
+UC2 .r.> UC4: <<includes>>
+UC4 .> UC3: <<extends>>
+
+UC15 <.up. UC14: <<includes>>
+UC16 <.up. UC14: <<includes>>
+
+@enduml

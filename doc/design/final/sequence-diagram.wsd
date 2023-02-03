@@ -1,0 +1,57 @@
+@startuml
+
+' autonumber 
+
+Title Trip Start / End
+
+Actor User as U
+participant App as A 
+database "Async Storage" as D
+participant "OCR" as O
+database "Blob Storage" as S
+
+U -> A : Launch App 
+activate A
+    A -> D : Request Trips
+    A <-- D : Data
+    U <-- A : Display Trips
+deactivate A
+
+
+U -> A : Start/End Trip
+
+activate A
+    U <-- A : Display Camera Prompt
+    U -> A : Take a picture
+    U <-- A : Display Compressed Image
+    U -> A : Confirm Image
+
+    A -> S : Upload Image with ID
+    activate S
+        A <-- S : Ok
+    deactivate S
+
+    A -> O : Request Optical Recogniton
+    activate O
+        A <-- O : Recognized Values 
+    deactivate O
+    U <-- A : Display Recognized Values
+    U -> A : Select Value
+    A -> A : Cache Trip Data
+
+alt Trip Ending
+
+    U <-- A : Display Trip Summary 
+    U -> A : Confirm Trip
+    A -> D : Persist Trip Data 
+
+end 
+
+    A -> D : Request Trip Refresh
+    A <-- D : Data
+    U <-- A : Display Trips
+    
+deactivate A
+
+
+@enduml

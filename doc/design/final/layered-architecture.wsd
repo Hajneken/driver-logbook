@@ -1,0 +1,52 @@
+@startuml
+
+
+Title Layered Architecture
+
+
+rectangle "\lPresentation Layer" as PUI {
+    component "Overview Screen" <<component>> as ui1
+    component "Settings Screen" <<component>> as ui2
+    component "Camera Screen" <<component>> as ui3
+    note "..." as n1
+}
+
+rectangle "\lApplication Layer" as A {
+    component "Card" <<component>> as comp1
+    component "Appbar" <<component>> as comp2
+    component "Camera Trigger" <<component>> as comp3 
+    note "..." as n2
+}
+note "And many more \nonly a few selected \nfor illustration..." as comment 
+
+rectangle "\lDomain Layer" as D {
+    component "App Settings Context" <<component>> as asc
+    component "Trip Context" <<component>>  as tc
+    component "User Context" <<component>>  as uc
+}
+
+rectangle "\lPersistance Layer" as P {
+    component "model" <<component>> as model
+    component "async storage" <<component>> as storage
+    database "local database" <<database>> as db
+}
+
+ui1 -- comp1
+ui2 -- comp2
+ui3 -- comp3
+
+comment -r- A
+comment -r- PUI
+
+comp1 -(0- asc
+comp2 -(0- tc
+comp3 -(0- uc
+
+asc -(0- model
+tc -(0- model
+uc -(0- model
+
+model -(0- storage
+storage -- db
+
+@enduml

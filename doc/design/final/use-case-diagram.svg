@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1676px" preserveAspectRatio="none" style="width:1014px;height:1676px;background:#FFFFFF;" version="1.1" viewBox="0 0 1014 1676" width="1014px" zoomAndPan="magnify"><defs/><g><!--MD5=[975d7fda8cf98ff1a26ca528bf10cecf]
+cluster App--><g id="cluster_App"><rect fill="none" height="1663" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="681" x="144" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="31" x="469" y="21.9951">App</text></g><!--MD5=[36e7cd95dd69b8fc9c44ee72248e17a6]
+entity O--><g id="elem_O"><ellipse cx="940.5" cy="1130.2969" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M940.5,1138.2969 L940.5,1165.2969 M927.5,1146.2969 L953.5,1146.2969 M940.5,1165.2969 L927.5,1180.2969 M940.5,1165.2969 L953.5,1180.2969 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="903" y="1194.792">Azure OCR</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="69" x="906" y="1118.4951">«Service»</text></g><!--MD5=[8ad42e69c823d91e931492f14bc2a1bb]
+entity S--><g id="elem_S"><ellipse cx="940.5" cy="1258.2969" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M940.5,1266.2969 L940.5,1293.2969 M927.5,1274.2969 L953.5,1274.2969 M940.5,1293.2969 L927.5,1308.2969 M940.5,1293.2969 L953.5,1308.2969 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="133" x="874" y="1322.792">Azure Blob Storage</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="69" x="906" y="1246.4951">«Service»</text></g><g id="elem_UC5"><ellipse cx="273.1066" cy="59.8213" fill="#F1F1F1" rx="74.6066" ry="17.3213" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="217.6066" y="63.5689">View Trip Detail</text></g><g id="elem_UC6"><ellipse cx="272.7532" cy="130.9506" fill="#F1F1F1" rx="77.7532" ry="17.9506" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="113" x="213.6994" y="134.5809">View Trip History</text></g><g id="elem_UC7"><ellipse cx="272.8925" cy="1347.0785" fill="#F1F1F1" rx="63.3925" ry="15.0785" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="232.8925" y="1350.8261">Modify Trip</text></g><g id="elem_UC8"><ellipse cx="273.0594" cy="1412.2119" fill="#F1F1F1" rx="64.0594" ry="15.2119" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="232.0594" y="1415.9594">Delete Trip</text></g><g id="elem_UC9"><ellipse cx="273.1144" cy="1482.9229" fill="#F1F1F1" rx="90.1144" ry="20.4229" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="202.1144" y="1485.7696">Enter Vehicle Details</text></g><g id="elem_UC10"><ellipse cx="273.2229" cy="1560.0446" fill="#F1F1F1" rx="93.2229" ry="21.0446" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="149" x="198.7229" y="1562.8913">Modify Vehicle Details</text></g><g id="elem_UC11"><ellipse cx="272.9128" cy="203.9826" fill="#F1F1F1" rx="87.9128" ry="19.9826" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="137" x="204.4128" y="206.8292">View Vehicle Details</text></g><g id="elem_UC13"><ellipse cx="272.8359" cy="283.9672" fill="#F1F1F1" rx="112.8359" ry="24.9672" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="192" x="176.8359" y="286.8139">View Odometer Image Proof</text></g><g id="elem_UC14"><ellipse cx="273.1635" cy="364.1327" fill="#F1F1F1" rx="86.1635" ry="19.6327" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="133" x="206.6635" y="366.9794">View vehicle details</text></g><g id="elem_UC15"><ellipse cx="273.1144" cy="438.9229" fill="#F1F1F1" rx="90.1144" ry="20.4229" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="202.1144" y="441.7696">Modify Trip Summary</text></g><g id="elem_UC16"><ellipse cx="273.212" cy="1634.9424" fill="#F1F1F1" rx="82.712" ry="18.9424" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="210.0208" y="1638.0215">Modify Trip Details</text></g><g id="elem_UC17"><ellipse cx="273.1868" cy="511.9374" fill="#F1F1F1" rx="72.6868" ry="16.9374" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="220.1868" y="515.6849">Export Backup</text></g><g id="elem_UC18"><ellipse cx="272.9431" cy="585.1886" fill="#F1F1F1" rx="91.4431" ry="20.6886" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="145" x="200.4431" y="588.0353">Restore from backup</text></g><g id="elem_UC19"><ellipse cx="273.228" cy="660.0456" fill="#F1F1F1" rx="85.728" ry="19.5456" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="207.228" y="662.8923">Export Trips to CSV</text></g><g id="elem_UC20"><ellipse cx="272.9128" cy="734.9826" fill="#F1F1F1" rx="87.9128" ry="19.9826" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="137" x="204.4128" y="737.8292">Export Trips to JSON</text></g><g id="elem_UC21"><ellipse cx="273.0271" cy="809.1054" fill="#F1F1F1" rx="81.0271" ry="18.6054" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="211.2415" y="812.3718">Edit Saved Places</text></g><g id="elem_UC22"><ellipse cx="273.0656" cy="882.1131" fill="#F1F1F1" rx="83.5656" ry="19.1131" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="127" x="209.1623" y="885.0974">View Saved Places</text></g><g id="elem_UC23"><ellipse cx="273.1635" cy="956.1327" fill="#F1F1F1" rx="86.1635" ry="19.6327" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="133" x="206.6635" y="958.9794">Delete Saved Place</text></g><g id="elem_UC1"><ellipse cx="272.8333" cy="1062.2455" fill="#F1F1F1" rx="56.3333" ry="14.7455" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="238.8333" y="1065.9931">Start Trip</text></g><g id="elem_UC2"><ellipse cx="273.1007" cy="1136.215" fill="#F1F1F1" rx="52.6007" ry="14.715" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="241.6007" y="1139.9626">End Trip</text></g><g id="elem_UC3"><ellipse cx="639.7105" cy="1059.2421" fill="#F1F1F1" rx="121.7105" ry="26.7421" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="211" x="534.2105" y="1062.0888">Verify Odometer against Image</text></g><g id="elem_UC4"><ellipse cx="639.4616" cy="1162.9923" fill="#F1F1F1" rx="117.9616" ry="25.9923" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="203" x="537.9616" y="1165.839">Odometer Image Recognition</text></g><g id="elem_UC12"><ellipse cx="639.6614" cy="1249.9323" fill="#F1F1F1" rx="115.1614" ry="25.4323" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="197" x="541.1614" y="1252.779">Store Odometer Image Proof</text></g><!--MD5=[118f42602524ad482f02b27ef22fc383]
+entity D--><g id="elem_D"><ellipse cx="51.5" cy="601.2969" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M51.5,609.2969 L51.5,636.2969 M38.5,617.2969 L64.5,617.2969 M51.5,636.2969 L38.5,651.2969 M51.5,636.2969 L64.5,651.2969 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="31.5" y="665.792">Driver</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="66" x="18.5" y="589.4951">«human»</text></g><!--MD5=[770389ab9df153645bc6ef28055eb2b5]
+entity A--><g id="elem_A"><ellipse cx="51.5" cy="1433.2969" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M51.5,1441.2969 L51.5,1468.2969 M38.5,1449.2969 L64.5,1449.2969 M51.5,1468.2969 L38.5,1483.2969 M51.5,1468.2969 L64.5,1483.2969 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="91" x="6" y="1497.792">Administrator</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="66" x="18.5" y="1421.4951">«human»</text></g><!--MD5=[1e7263c78e66a7454dd114a811c40bda]
+reverse link D to A--><g id="link_D_A"><path d="M51.5,689.97 C51.5,929.41 51.5,1168.85 51.5,1408.28 " fill="none" id="D-backto-A" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="44.5,689.78,51.5,669.78,58.5,689.78,44.5,689.78" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b2085f712eab76df9dd70271e0abdc9a]
+link S to UC12--><g id="link_S_UC12"><path d="M873.99,1273.43 C836.13,1269.63 787.63,1264.76 744.66,1260.45 " fill="none" id="S-UC12" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[9be9e975da223bceece33826cd3cd71c]
+link D to UC1--><g id="link_D_UC1"><path d="M55.15,669.75 C61.75,768.29 82.42,992.41 136,1043 C158.45,1064.19 192.99,1068.81 221.64,1068.19 " fill="none" id="D-UC1" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[04287dcc80d6c0616043ecfd06ced7bd]
+link D to UC2--><g id="link_D_UC2"><path d="M54.73,669.82 C60.74,776.13 80.69,1031.36 136,1094 C157.35,1118.17 192.27,1128.61 221.38,1133.04 " fill="none" id="D-UC2" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[541cf6a421c978face790266de26be11]
+link D to UC5--><g id="link_D_UC5"><path d="M53.5,576.43 C56.96,460.87 72,165.22 136,95 C152.26,77.16 176.28,67.89 199.63,63.22 " fill="none" id="D-UC5" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ffa7ccf80ada64b96d9d328272788a98]
+link D to UC6--><g id="link_D_UC6"><path d="M54.8,576.22 C60.89,471.98 80.9,225.17 136,166 C151.7,149.14 174.34,139.96 196.66,135.08 " fill="none" id="D-UC6" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4331395dfbf2e798d2a4fbfdb89f5ff4]
+link D to UC11--><g id="link_D_UC11"><path d="M56.7,576.44 C65.82,485.5 90.39,288.97 136,241 C150.42,225.84 170.37,216.68 190.56,211.2 " fill="none" id="D-UC11" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[cbd764eefea3f16389cef459772ff74d]
+link D to UC13--><g id="link_D_UC13"><path d="M52.61,576.32 C55.32,511.69 69.85,395.25 136,327 C148.41,314.2 164.6,305.19 181.45,298.87 " fill="none" id="D-UC13" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f998dd5ca412c3a8b5d793156762730a]
+link D to UC14--><g id="link_D_UC14"><path d="M57.6,576.12 C65.59,525.73 85.75,446.73 136,401 C152.11,386.34 173.45,377.4 194.45,371.98 " fill="none" id="D-UC14" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f4dac5471f768ff4d650a972201e5051]
+link D to UC15--><g id="link_D_UC15"><path d="M68.25,576.4 C81.49,544.02 103.52,502.3 136,477 C153.02,463.74 174.41,455.11 195.15,449.49 " fill="none" id="D-UC15" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[93104c6ab751a4e19de0c30102a2c651]
+link D to UC17--><g id="link_D_UC17"><path d="M84.88,586.64 C99.27,572.44 117.2,557.15 136,547 C159.17,534.49 186.99,526.3 211.42,521.02 " fill="none" id="D-UC17" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[177e27b99b18db26c57f2555cdc232a7]
+link D to UC18--><g id="link_D_UC18"><path d="M84.89,617.39 C115.06,612.17 161.1,604.2 199.96,597.47 " fill="none" id="D-UC18" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[0fdf7db3c8aad104d02ba13d494f9b51]
+link D to UC19--><g id="link_D_UC19"><path d="M84.89,628.46 C116.01,633.71 164.03,641.8 203.63,648.47 " fill="none" id="D-UC19" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[83fcd8ea5d3a92e53894ad3a3be14d7c]
+link D to UC20--><g id="link_D_UC20"><path d="M84.74,657.81 C99.24,671.71 117.29,686.81 136,697 C156.99,708.43 181.72,716.67 204.29,722.49 " fill="none" id="D-UC20" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1683f8208cce8a7d94ae95224f9f386b]
+link D to UC21--><g id="link_D_UC21"><path d="M67.54,669.56 C80.59,702.78 102.69,746 136,772 C154.42,786.38 178.02,795.18 200.38,800.56 " fill="none" id="D-UC21" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[82d0cf8b5c103d3ebec3e7f8a03f2152]
+link D to UC22--><g id="link_D_UC22"><path d="M57.6,669.88 C65.59,720.27 85.75,799.27 136,845 C152.56,860.07 174.65,869.09 196.21,874.47 " fill="none" id="D-UC22" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8bb3e2e251e11399efc63b8df205e652]
+link D to UC23--><g id="link_D_UC23"><path d="M52.33,669.57 C54.7,734.3 68.8,851.02 136,918 C151.45,933.4 172.6,942.69 193.61,948.25 " fill="none" id="D-UC23" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[895711ac557db20cdb2a14f10c004e82]
+link A to UC7--><g id="link_A_UC7"><path d="M95.64,1408.17 C107.77,1397.24 121.6,1386.58 136,1379 C160.57,1366.06 190.37,1358.29 215.8,1353.66 " fill="none" id="A-UC7" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[5ea53c8fc41ef74910cb7ae5db865cab]
+link A to UC8--><g id="link_A_UC8"><path d="M97.18,1446.25 C133.79,1439.08 185.5,1428.95 223.18,1421.56 " fill="none" id="A-UC8" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[cd0b76491e9876132105be17c6a8259a]
+link A to UC9--><g id="link_A_UC9"><path d="M97.18,1460.7 C125.01,1464.25 161.57,1468.91 194.06,1473.06 " fill="none" id="A-UC9" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[af97dbc481b077865e65573a320ef31c]
+link A to UC10--><g id="link_A_UC10"><path d="M97.1,1495.44 C109.11,1504.83 122.52,1514.08 136,1521 C156.98,1531.76 181.35,1539.94 203.62,1545.95 " fill="none" id="A-UC10" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[833217391beadb3b439cb1fe563dbe77]
+link A to UC16--><g id="link_A_UC16"><path d="M68.86,1501.73 C82.23,1533.33 104.17,1573.6 136,1598 C154.35,1612.07 177.69,1620.79 199.83,1626.2 " fill="none" id="A-UC16" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4dd57691b2a637db5e48901a45bd7252]
+link UC4 to O--><g id="link_UC4_O"><path d="M756.1,1158.75 C808.36,1156.82 866.45,1154.69 902.97,1153.34 " fill="none" id="UC4-O" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[41a13eddb1eb4ad2a8fa357668cebe40]
+link UC1 to UC4--><g id="link_UC1_UC4"><path d="M311.98,1072.52 C370.41,1088.71 483.61,1120.08 560.13,1141.29 " fill="none" id="UC1-to-UC4" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="565.12,1142.67,557.5256,1136.399,560.3038,1141.3266,555.3762,1144.1048,565.12,1142.67" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="68" x="417" y="1100.0669">«includes»</text></g><!--MD5=[70fd0aa021e0672eb21bacda73a77dec]
+link UC2 to UC4--><g id="link_UC2_UC4"><path d="M323.92,1139.7 C374.75,1143.46 455.38,1149.44 522.28,1154.39 " fill="none" id="UC2-to-UC4" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="527.48,1154.78,518.7888,1150.1472,522.4928,1154.4227,518.2172,1158.1267,527.48,1154.78" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="68" x="417" y="1144.0669">«includes»</text></g><!--MD5=[9def120608b2af73366fdf2b658d936d]
+link UC4 to UC3--><g id="link_UC4_UC3"><path d="M639.5,1136.76 C639.5,1122.82 639.5,1105.59 639.5,1090.89 " fill="none" id="UC4-to-UC3" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="639.5,1085.6,635.5,1094.6,639.5,1090.6,643.5,1094.6,639.5,1085.6" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="67" x="594.5" y="1115.8169">«extends»</text></g><!--MD5=[435cf1d5f312ed3a975e53a0e2da15f4]
+@startuml
+
+left to right direction
+
+
+actor "Driver" <<human>> as D
+actor "Administrator" <<human>> as A
+
+together {
+actor "Azure OCR" <<Service>> as O
+actor "Azure Blob Storage" <<Service>> as S
+}
+
+
+rectangle "App"  {
+  
+together {
+  usecase "Start Trip" as UC1
+  usecase "End Trip" as UC2 
+  together {
+        usecase "Verify Odometer against Image" as UC3
+        usecase "Odometer Image Recognition" as UC4  
+        usecase "Store Odometer Image Proof" as UC12
+    }
+  }
+
+  usecase "View Trip Detail" as UC5 
+  usecase "View Trip History" as UC6
+  usecase "Modify Trip" as UC7  
+  usecase "Delete Trip" as UC8 
+  usecase "Enter Vehicle Details" as UC9 
+  usecase "Modify Vehicle Details" as UC10 
+  usecase "View Vehicle Details" as UC11  
+  usecase "View Odometer Image Proof" as UC13
+  usecase "View vehicle details" as UC14 
+  usecase "Modify Trip Summary" as UC15
+  usecase "Modify Trip Details" as UC16
+  usecase "Export Backup" as UC17
+  usecase "Restore from backup" as UC18
+  usecase "Export Trips to CSV" as UC19
+  usecase "Export Trips to JSON" as UC20
+  usecase "Edit Saved Places" as UC21
+  usecase "View Saved Places" as UC22
+  usecase "Delete Saved Place" as UC23
+}
+
+
+D <|- A
+
+UC12 -u- S
+
+' Actor interactions with the system
+D - - UC1
+D - - UC2
+D - - UC5
+D - - UC6
+D - - UC11
+D - - UC13
+D - - UC14
+D - - UC15
+D - - UC17
+D - - UC18
+D - - UC19
+D - - UC20
+D - - UC21
+D - - UC22
+D - - UC23
+
+A - - UC7
+A - - UC8
+A - - UC9
+A - - UC10
+A - - UC16
+
+
+UC4 - - O 
+
+
+
+' use-case relationships
+UC1 ..> UC4: <<includes>>
+UC2 ..> UC4: <<includes>>
+UC4 .> UC3: <<extends>>
+
+
+@enduml
+
+@startuml
+
+left to right direction
+
+
+actor "Driver" <<human>> as D
+actor "Administrator" <<human>> as A
+
+together {
+actor "Azure OCR" <<Service>> as O
+actor "Azure Blob Storage" <<Service>> as S
+}
+
+
+rectangle "App"  {
+  
+together {
+  usecase "Start Trip" as UC1
+  usecase "End Trip" as UC2 
+  together {
+        usecase "Verify Odometer against Image" as UC3
+        usecase "Odometer Image Recognition" as UC4  
+        usecase "Store Odometer Image Proof" as UC12
+    }
+  }
+
+  usecase "View Trip Detail" as UC5 
+  usecase "View Trip History" as UC6
+  usecase "Modify Trip" as UC7  
+  usecase "Delete Trip" as UC8 
+  usecase "Enter Vehicle Details" as UC9 
+  usecase "Modify Vehicle Details" as UC10 
+  usecase "View Vehicle Details" as UC11  
+  usecase "View Odometer Image Proof" as UC13
+  usecase "View vehicle details" as UC14 
+  usecase "Modify Trip Summary" as UC15
+  usecase "Modify Trip Details" as UC16
+  usecase "Export Backup" as UC17
+  usecase "Restore from backup" as UC18
+  usecase "Export Trips to CSV" as UC19
+  usecase "Export Trips to JSON" as UC20
+  usecase "Edit Saved Places" as UC21
+  usecase "View Saved Places" as UC22
+  usecase "Delete Saved Place" as UC23
+}
+
+
+D <|- A
+
+UC12 -u- S
+
+D - - UC1
+D - - UC2
+D - - UC5
+D - - UC6
+D - - UC11
+D - - UC13
+D - - UC14
+D - - UC15
+D - - UC17
+D - - UC18
+D - - UC19
+D - - UC20
+D - - UC21
+D - - UC22
+D - - UC23
+
+A - - UC7
+A - - UC8
+A - - UC9
+A - - UC10
+A - - UC16
+
+
+UC4 - - O 
+
+
+
+UC1 ..> UC4: <<includes>>
+UC2 ..> UC4: <<includes>>
+UC4 .> UC3: <<extends>>
+
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
